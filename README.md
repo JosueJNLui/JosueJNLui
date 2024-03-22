@@ -4,7 +4,7 @@
 
 [PT-BR] Fico muito contente por tê-lo aqui! Tenho 24 anos, sou graduando em Engenharia de Produção pela Universidade de São Paulo (USP) e estou muito ansioso para aprender cada vez mais sobre tecnologia e seu uso no campo da engenharia de dados. Fique à vontade para ver os projetos e ficarei bastante feliz em receber quaisquer feedbacks.
 
-[EN-US] I am very excited to have you here! I am 24 years old, an undergraduate student in Production Engineering at the University of São Paulo (USP), and eager to learn more and more about technology and its uses in the field of data engineering. Feel free to take a look at my projects, and I will be very happy and grateful to receive any kind of feedback.asd
+[EN-US] I am very excited to have you here! I am 24 years old, an undergraduate student in Production Engineering at the University of São Paulo (USP), and eager to learn more and more about technology and its uses in the field of data engineering. Feel free to take a look at my projects, and I will be very happy and grateful to receive any kind of feedback.
 
 <h3 align="left" class="heading-element" dir="auto">Conecte-se comigo | Connect with me:</h3>
 
