@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=JosueJNLui&color=blue)
+
 # Olá, seja muito bem vindo ao meu perfil no git! | Hi, Welcome to my git profile!
 
 [PT-BR] Fico muito contente por tê-lo aqui! Tenho 24 anos, sou graduando em Engenharia de Produção pela Universidade de São Paulo (USP) e estou muito ansioso para aprender cada vez mais sobre tecnologia e seu uso no campo da engenharia de dados. Fique à vontade para ver os projetos e ficarei bastante feliz em receber quaisquer feedbacks.
