@@ -54,4 +54,10 @@
     <img align="middle" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" alt="terraform" height="30" width="40" style="max-width: 100%;">
 </a>
 
+<a href="https://www.selenium.dev/" title="Selenium">
+    <img align="middle" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" height="30" width="40" style="max-width: 100%;">
+</a>
 
+<a href="https://airflow.apache.org/" title="Airflow">
+    <img align="middle" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" height="30" width="40" style="max-width: 100%;">
+</a>
