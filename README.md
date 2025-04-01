@@ -61,3 +61,5 @@
 <a href="https://airflow.apache.org/" title="Airflow">
     <img align="middle" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" height="30" width="40" style="max-width: 100%;">
 </a>
+
+![Snake animation](https://github.com/JosueJNLui/JosueJNLui/blob/output/github-contribution-grid-snake.svg)
