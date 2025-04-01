@@ -63,4 +63,4 @@
 </a>
 
 
-![Josue Lui's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=radical)
+![Josue Lui's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=tokyonight)
