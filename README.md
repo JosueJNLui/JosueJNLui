@@ -64,7 +64,7 @@
 
 <br/><br/>
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; gap: 20px; justify-content: top;">
   <img src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react&hide_border=true">
 </div>
