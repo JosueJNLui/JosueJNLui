@@ -66,7 +66,7 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/JosueJNLui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&layout=compact&langs_count=7&theme=react&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react&hide_border=true">
   </a>
 </div>
