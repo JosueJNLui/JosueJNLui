@@ -65,12 +65,12 @@
 <br/><br/>
 
 <div align="center">
-  <table style="border:none; border-collapse: collapse;">
-    <tr>
-      <td style="border:none; padding: 0">
+  <table style="border:none !important; border-collapse: collapse; background-color: transparent !important;">
+    <tr style="background-color: transparent !important;">
+      <td style="border:none !important; padding: 0; background-color: transparent !important;">
         <img src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github" />
       </td>
-      <td style="border:none; padding: 0">
+      <td style="border:none !important; padding: 0; background-color: transparent !important;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react" />
       </td>
     </tr>
