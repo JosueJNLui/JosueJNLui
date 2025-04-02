@@ -64,5 +64,5 @@
 
 <br/><br/>
 
-![Josue Lui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react)](https://github.com/JosueJNLui/github-readme-stats)
+![Josue Lui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react)](https://github.com/JosueJNLui/github-readme-stats)
 
