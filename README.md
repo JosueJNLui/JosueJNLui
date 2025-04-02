@@ -64,9 +64,5 @@
 
 <br/><br/>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; justify-content: flex-start; margin: 0; padding: 0;">
-  <a href="https://github.com/JosueJNLui">
-    <img src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react&hide_border=true">
-  </a>
-</div>
+| ![Josue Lui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react&hide_border=true)](https://github.com/JosueJNLui/github-readme-stats) |
+| ------------- | ------------- |
