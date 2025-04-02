@@ -64,6 +64,7 @@
 
 <br/><br/>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react" /> |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react" />
+</div>
