@@ -64,6 +64,27 @@
 
 <br/><br/>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react" /> |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-
+<markdown-accessiblity-table data-catalyst="">
+  <table style="border: none !important; border-collapse: collapse; background: transparent !important;">
+    <thead>
+      <tr style="background: transparent !important;">
+        <th style="border: none !important; padding: 0; background: transparent !important;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github">
+            <img 
+              src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github&hide_border=true" 
+              style="border: none !important; max-width: 100%;"
+            >
+          </a>
+        </th>
+        <th style="border: none !important; padding: 0; background: transparent !important;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react">
+            <img 
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react&hide_border=true" 
+              style="border: none !important; max-width: 100%;"
+            >
+          </a>
+        </th>
+      </tr>
+    </thead>
+  </table>
+</markdown-accessiblity-table>
