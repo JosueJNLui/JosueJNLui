@@ -64,7 +64,7 @@
 
 <br/><br/>
 
-<div align="left" dir="auto">
+<div style="display: flex; align-items: flex-start; gap: 20px; justify-content: flex-start; margin: 0; padding: 0;">
   <a href="https://github.com/JosueJNLui">
     <img src="https://github-readme-stats.vercel.app/api?username=JosueJNLui&show_icons=true&theme=react&rank_icon=github&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJNLui&theme=react&hide_border=true">
